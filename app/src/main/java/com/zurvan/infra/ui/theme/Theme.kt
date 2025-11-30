@@ -1,4 +1,4 @@
-package com.zurvan.ui.theme
+package com.zurvan.infra.ui.theme
 
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme

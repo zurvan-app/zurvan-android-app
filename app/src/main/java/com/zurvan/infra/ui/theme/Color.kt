@@ -1,4 +1,4 @@
-package com.zurvan.ui.theme
+package com.zurvan.infra.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
